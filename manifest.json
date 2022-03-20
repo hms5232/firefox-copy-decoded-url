@@ -1,26 +1,23 @@
 {
     "manifest_version": 2,
     "name": "Copy Decoded URL",
-    "version": "0.1",
-  
-    "description": "Quickly copy the decoded URL with a click",
+    "version": "0.1.0",
+    "author": "hms5232",
+    "description": "Quickly copy the decoded URL with a click.",
     "homepage_url": "https://github.com/hms5232/firefox-copy-decoded-url",
-
     "icons": {
-        "96": "icons/btn-100.png"
+        "48": "icons/btn-48.png",
+        "96": "icons/btn-96.png"
     },
-
     "permissions": [
         "activeTab",
         "clipboardWrite"
     ],
-
     "browser_action": {
-        "default_icon": "icons/btn-100.png",
+        "default_icon": "icons/btn-96.png",
         "default_title": "Copy Decoded URL"
     },
-
     "background": {
         "scripts": ["background.js"]
     }
-  }
+}
