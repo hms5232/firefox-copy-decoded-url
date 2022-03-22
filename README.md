@@ -25,6 +25,13 @@ Download or clone repo, then follow this [guide](https://extensionworkshop.com/d
 ## Thanks
 
 * The icon is from and based on https://icons8.com/icons/set/link
+* https://www.delftstack.com/zh-tw/howto/javascript/javascript-copy-to-clipboard/
 * https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_second_WebExtension
 * https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Add_a_button_to_the_toolbar
 * https://stackoverflow.com/questions/53983318/firefox-addon-button-browser-action-not-calling-js-on-click
+
+## License
+
+Copyright © 2022 hms5232
+
+This extension is licensed under [MPL 2.0](LICENSE)
