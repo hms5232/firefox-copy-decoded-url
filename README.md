@@ -22,6 +22,12 @@ That's all.
 ### Temporary installation
 Download or clone repo, then follow this [guide](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/).
 
+## Alternative
+
+Firefox has bulit in a config that can control this. Please go to `about:config` change `browser.urlbar.decodeURLsOnCopy` from `false` to `true`.
+
+Thanks [@FlandreDaisuki](https://github.com/FlandreDaisuki) show me another way to achieve this (see #1).
+
 ## Thanks
 
 * The icon is from and based on https://icons8.com/icons/set/link
