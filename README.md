@@ -1,6 +1,6 @@
 # firefox-copy-decoded-url
 
-<p align="center"><img src="icons/btn-100.png" alt="icon" /></p>
+<p align="center"><img src="material/btn-100.png" alt="icon" /></p>
 
 ![badge of version on amo](https://img.shields.io/amo/v/copy-decoded-url?color=ff7525)
 [![](https://img.shields.io/github/v/release/hms5232/firefox-copy-decoded-url?color=a347ee&include_prereleases&sort=semver)](https://github.com/hms5232/firefox-copy-decoded-url/releases)
