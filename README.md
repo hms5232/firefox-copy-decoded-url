@@ -26,7 +26,7 @@ Download or clone repo, then follow this [guide](https://extensionworkshop.com/d
 
 Firefox has bulit in a config that can control this. Please go to `about:config` change `browser.urlbar.decodeURLsOnCopy` from `false` to `true`.
 
-Thanks [@FlandreDaisuki](https://github.com/FlandreDaisuki) show me another way to achieve this (see #1).
+Thanks [@FlandreDaisuki](https://github.com/FlandreDaisuki) show me another way to achieve this (see https://github.com/hms5232/firefox-copy-decoded-url/issues/1).
 
 ## Thanks
 
