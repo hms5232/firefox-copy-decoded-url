@@ -1,4 +1,4 @@
-browser.browserAction.onClicked.addListener((tab) => {
+browser.action.onClicked.addListener((tab) => {
     // decodeURI(window.location.href);
     const duri = decodeURI(tab.url);
     navigator.clipboard.writeText(duri).then(() => {
