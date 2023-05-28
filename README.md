@@ -19,6 +19,9 @@ That's all.
 ### addons.mozilla.org (recommend)
 [![get-the-addon-129x45.png](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon-small.png)](https://addons.mozilla.org/addon/copy-decoded-url/)
 
+⚠ If you use Firefox between 101 and 108, you should enable manifest v3: set `extensions.manifestV3.enabled` to `true` in `about:config`, or switch to v0.1.x version extension.  
+⚠ If you use Firefox between 90 and 100, you should only install v0.1.x version extension.
+
 ### Temporary installation
 Download or clone repo, then follow this [guide](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/).
 
