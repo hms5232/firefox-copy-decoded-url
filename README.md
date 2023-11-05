@@ -8,7 +8,7 @@
 
 Quickly copy the decoded URL with a click.
 
-[![get-the-addon-172x60.png](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/addon/copy-decoded-url/)
+[![get-the-addon-172x60.png](https://blog.mozilla.org/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/addon/copy-decoded-url/)
 
 ## Usage
 After installing and enabling, this plugin will show a button on toolbar. Decoded URL will be copied into clipboard with a click on icon button.
