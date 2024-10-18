@@ -3,7 +3,7 @@
 <p align="center"><img src="material/btn-100.png" alt="icon" /></p>
 
 ![badge of version on amo](https://img.shields.io/amo/v/copy-decoded-url?color=ff7525)
-[![](https://img.shields.io/github/v/release/hms5232/firefox-copy-decoded-url?color=a347ee&include_prereleases&sort=semver)](https://github.com/hms5232/firefox-copy-decoded-url/releases)
+![Mozilla Add-on Users](https://img.shields.io/amo/users/%7B0f693142-6faf-4ba6-b423-1542da3ee2d1%7D?color=a347ee)
 ![](https://img.shields.io/github/license/hms5232/firefox-copy-decoded-url?color=ffdb3f&style=flat-square)
 
 Quickly copy the decoded URL with a click.
